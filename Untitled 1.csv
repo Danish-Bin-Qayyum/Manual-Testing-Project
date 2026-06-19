@@ -1,0 +1,22 @@
+,,,,,,,,,
+,Test Case Execution Tracker,,,,,,Total,Passed,Failed
+,,,,,,,5,4,0
+,,,,,,,,,
+,Test Case ID,"Module / Section /
+ Feacture",Description,"Pre-condition /
+Prerequisite",Test Steps,Test Data,Expected Result,Actual Result,Status
+,TC_REG_001,Registration,Verify that UI layout of registration page should be as per the figma,"1.user launched this https://www.opencart.com/  
+2. user tapped on Register button","1.user launched this https://www.opencart.com/
+2. user tapped on REGISTER button",N/A,UI should be as per the figma,As expected,Pass
+,TC_REG_002,Registration,verify that all the required fields should be marked with asterisk(*),"1.user launched this https://www.opencart.com/  
+2. user tapped on Register button","1.user launched this https://www.opencart.com/
+2. user tapped on REGISTER button",N/A,All the required fields should be marked with asterisk(*),AS expected,Pass
+,TC_REG_003,Registration,verify that when we click the Register button without enter any data Register button should be blocked,"1.user launched this https://www.opencart.com/  
+2. user tapped on Register button","1.user launched this https://www.opencart.com/
+2. user tapped on REGISTER button
+3. user tapped on REGISTER button",N/A,REGISTER button should be blocked,AS expected,Pass
+,TC_REG_004,Registration,,,,,,,Pass
+,TC_REG_005,Registration,,,,,,,Failed
+,TC_REG_006,Registration,,,,,,,
+,TC_REG_007,Registration,,,,,,,
+,TC_REG_008,Registration,,,,,,,
